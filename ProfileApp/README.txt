@@ -1,4 +1,4 @@
-Arquitectura: MVP
+Architecture: MVP
 Third Party Libraries:
 - Alamofire
 - Reachability
@@ -9,4 +9,4 @@ Collapsible view
 Manage Internet connection
 Header with General Information
 Extension to format dates
-Extension to download images using alamofire 
+Extension to download images using alamofire
